@@ -1,1 +1,5 @@
 this is first file of private repo.
+pushing with ssh ul and put into git hub 
+
+create key pairs by running ssh-keygen -o -t rsa command 
+then copy id_rsa.pub content->settings->ssh keys->create new ssh key
